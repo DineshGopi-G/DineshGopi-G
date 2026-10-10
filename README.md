@@ -3,9 +3,7 @@
 </div>
 
 <h1 align="center">D I N E S H</h1>
-
 ---
-
 <h3 align="center">Python Full-Stack Developer • UI/UX Designer</h3>
 
 <p align="center">
