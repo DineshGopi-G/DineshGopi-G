@@ -24,7 +24,7 @@
 ---
 
 <h2 align="center">
-  👋 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=3B3FD0&center=true&vCenter=true&repeat=false&width=170&height=45&lines=About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=3B3FD0&center=true&vCenter=true&repeat=false&width=170&height=45&lines=About+Me" alt="About Me" />
 </h2>
 
 <p align="center"><i>Code that works. Design that feels right.</i></p>
@@ -38,7 +38,7 @@
 ---
 
 <h2 align="center">
-  💼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=3B3FD0&center=true&vCenter=true&repeat=false&width=330&height=45&lines=Looking+for+Work" alt="Looking for Work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=3B3FD0&center=true&vCenter=true&repeat=false&width=330&height=45&lines=Looking+for+Work" alt="Looking for Work" />
 </h2>
 
 <p align="center">
